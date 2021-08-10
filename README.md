@@ -1,9 +1,10 @@
 # Sorting-Algorithm-Visualizer
-## It a visualization of various Algorithm in python using matplotlib Library .
-In this repository I had implemented various sorting Algorithm  in python to reprent them graphically in VS code Editor for better unerstanding and Analysis in a graphical manner.
+## This project helps visualization of various Sorting  Algorithms in python.
+In this repository I had simulated  various Sorting Algorithms  in python using  VS Code Editor for better understanding and Analysis in a graphical manner and observe how these Alogithms work for different size of datasets. 
 
 ## Sorting Algorithm Visualized are:-
-1.Merge Sort
-2.Bubble Sort
-3.Heap Sort
-4.
+### 1.Insertion Sort                                                                                                                                                                ### 2.Selection Sort                           
+### 3.Quick Sort
+### 4.Merge Sort
+### 5.Bubble Sort
+### 6.Heap Sort
