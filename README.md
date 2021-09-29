@@ -9,3 +9,15 @@ All plots are generated using Matplotlib library in Python.
 ### 4.Merge Sort
 ### 5.Bubble Sort
 ### 6.Heap Sort
+
+# How to Use
+## Install 
+pip install -r requirements.txt
+
+## Run
+python main.py function_name
+
+Pass function name as a command line argument from list of functions above (in all lower case and spaces replaced by underscore).
+
+## for example :
+python main.py quick_sort
